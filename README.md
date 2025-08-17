@@ -28,9 +28,9 @@ and supporting documentation from the class project.
 ---
 
 ## Documentation
-- [User Guide](docs/Zep-CAD%20User%20Guide.pdf)  
-- [Final Report](docs/zeppelin_cad_report.pdf)  
-- [Presentation Slides](docs/presentation_Zep_CAD.pdf)  
+- [User Guide](docs/user_guide/zep-cad_user_guide.pdf)  
+- [Final Report](docs/paper/zeppelin_cad_report.pdf)  
+- [Presentation Slides](docs/presentation/presentation_Zep_CAD.pdf)  
 - Project Presentation Video: [Watch on YouTube](https://youtu.be/zmH3zRnvlFg)  
   
 
