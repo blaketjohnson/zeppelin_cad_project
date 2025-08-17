@@ -7,12 +7,12 @@ and supporting documentation from the class project.
 ---
 
 ## Repository Structure
-- **`src/zeppelin/`** — Python source files for the design software.  
+- **`cad/`** — Python source files for the design software.  
 - **`notebooks/`** — Jupyter notebooks used for development, experiments, and plotting.  
 - **`docs/`** — Final report, presentation slides, and user guide.  
 - **`renders/`** — Figures, graphs, and visualizations generated from the project.  
 - **`video/`** — Project presentation (also available on [YouTube](https://youtu.be/zmH3zRnvlFg)).  
-- **`executables/`** — Compiled GUI application (`Zeppelin.CAD.exe`) — **ignored in Git**, but available via [Releases](../../releases).  
+- **`executable/`** — Compiled GUI application (`Zeppelin.CAD.exe`) — **ignored in Git**, but available via [Releases](../../releases).  
 
 ---
 
