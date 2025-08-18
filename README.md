@@ -25,7 +25,7 @@ Includes final report, presentation slides, and video demo as part of a complete
 
 ## 🖼️ Preview Renders
 <p align="center">
-  <img src="renders/final_zeppelin.png" width="70%"/>
+  <img src="renders/sharp_nose.png" width="70%"/>
 </p>
 
 ---
