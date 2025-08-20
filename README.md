@@ -1,4 +1,4 @@
-# Zeppelin CAD Project 🎈🛠️
+# Zeppelin CAD Project
 
 [![Status](https://img.shields.io/badge/status-stable-brightgreen)](#)
 [![Last commit](https://img.shields.io/github/last-commit/blaketjohnson/zeppelin_cad_project)](#)
@@ -14,7 +14,7 @@ Includes final report, presentation slides, and video demo as part of a complete
 
 ---
 
-## ✨ Highlights for Recruiters
+## Highlights for Recruiters
 - Modular Python codebase with parametric Zeppelin components.  
 - Configurable via `config.py` with geometry & performance parameters.  
 - GUI executable (`Zeppelin.CAD.exe`) available via GitHub Releases.  
@@ -23,14 +23,14 @@ Includes final report, presentation slides, and video demo as part of a complete
 
 ---
 
-## 🖼️ Preview Renders
+## Preview Renders
 <p align="center">
   <img src="renders/sharp_nose.png" width="70%"/>
 </p>
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 Clone and install dependencies:
 ```bash
@@ -62,7 +62,7 @@ zeppelin_cad_project/
 
 ---
 
-## 📚 Documentation
+## Documentation
 - [User Guide](docs/user_guide/zep-cad_user_guide.pdf)  
 - [Final Report](docs/paper/zeppelin_cad_report.pdf)  
 - [Presentation Slides](docs/presentation/presentation_Zep_CAD.pdf)  
@@ -70,11 +70,11 @@ zeppelin_cad_project/
 
 ---
 
-## 📌 About the Author
+## About the Author
 This project is part of a portfolio in **orbital mechanics, mission design, and aerospace systems engineering**, including applications of **parametric CAD and design automation**.  
 More projects available at: [GitHub Portfolio](https://github.com/blaketjohnson)
 
 ---
 
-## 📜 License
+## License
 MIT License — see [LICENSE](LICENSE).
